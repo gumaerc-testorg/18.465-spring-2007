@@ -2,8 +2,13 @@
 content_type: resource
 description: This file covers lecture explaining applications of random VC inequality
   to voting algorithms and SVM based on margin-sparcity bound.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/f9fa828c437eccd4fc77fe9ae5d47653_lecture35.pdf
+file: /media/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/f9fa828c437eccd4fc77fe9ae5d47653_lecture35.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture35.pdf
 uid: f9fa828c-437e-ccd4-fc77-fe9ae5d47653

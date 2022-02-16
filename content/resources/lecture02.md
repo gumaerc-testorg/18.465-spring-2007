@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file covers clasification problem along with examples.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/5c28ad9411d2f7ad6c2d74583d965522_lecture02.pdf
+file: /media/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/5c28ad9411d2f7ad6c2d74583d965522_lecture02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture02.pdf
 uid: 5c28ad94-11d2-f7ad-6c2d-74583d965522
