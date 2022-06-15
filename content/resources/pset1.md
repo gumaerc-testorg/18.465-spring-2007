@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Problem Set 1.
-file: /media/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a5490905625b99fa4d8ef70f5f8de09b_pset1.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a5490905625b99fa4d8ef70f5f8de09b_pset1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: pset1.pdf
 uid: a5490905-625b-99fa-4d8e-f70f5f8de09b
 ---
+This resource contains Problem Set 1.
+

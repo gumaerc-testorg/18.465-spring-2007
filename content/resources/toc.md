@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/336b787dc798473a4fa55da69591b190_toc.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/336b787dc798473a4fa55da69591b190_toc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
