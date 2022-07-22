@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture20.pdf
 uid: 7229bd5e-335e-8d26-7b09-3d4dbdba45f2
 ---
 This file covers continuation of lecture on bounds on the generalization error of voting classifiers based on theorem.
-

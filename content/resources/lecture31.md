@@ -8,6 +8,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture31.pdf
 uid: b80daec7-683a-3a03-9f68-fe4be448d1b3
 ---
 This file covers lecture explaining applications of talagrand's concentration inequality by substituting the result of talagrand's concentration inequality for empirical processes and comparing it with martingale-difference inequalities along with theorems and examples.
-

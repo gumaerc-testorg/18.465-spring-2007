@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture16.pdf
 uid: 2ad9293f-c005-fb9c-ddc1-d1b8007a0c18
 ---
 This file covers lecture on consequences of the generalized VC inequality based on lemmas and theorems along with examples.
-

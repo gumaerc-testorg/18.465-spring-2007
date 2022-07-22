@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture15.pdf
 uid: 01599860-2934-74a3-8640-b0b4680d4dc1
 ---
 This file covers lecture on more symmetrization based on lemmas.
-

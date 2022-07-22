@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture34.pdf
 uid: a8787c59-f2e7-cf9f-81ab-efbb7292c0b1
 ---
 This file covers lecture on optimistic VC inequality for random classes of sets based on theorems appearing in cucker and Smale.
-

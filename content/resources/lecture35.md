@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture35.pdf
 uid: f9fa828c-437e-ccd4-fc77-fe9ae5d47653
 ---
 This file covers lecture explaining applications of random VC inequality to voting algorithms and SVM based on margin-sparcity bound.
-

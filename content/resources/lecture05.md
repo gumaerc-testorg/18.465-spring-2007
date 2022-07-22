@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture05.pdf
 uid: ba808a4d-135d-2860-3dbb-ceebde304f78
 ---
 This file covers lecture on one dimensional concentration inequalities and bennett's inequality based on theorems.
-

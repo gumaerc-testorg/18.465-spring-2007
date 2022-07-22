@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13.pdf
 uid: 180593c5-a477-fe41-94c7-2fbcc9483755
 ---
 This file contains lecture covering numbers of the VC subgraph classes by explaining theorems.
-

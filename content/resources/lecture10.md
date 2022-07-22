@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture10.pdf
 uid: ae2ee880-c650-08cd-dbd2-c8d4b03c2771
 ---
 This file covers lecture on Symmetrization based on lemma and theorems.
-

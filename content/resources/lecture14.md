@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 6c7d5cce-4a3c-1c98-c2a0-c563270bc402
 ---
 This file covers lecture on Kolmogorov's chaining method with Dudley's entropy integral based on theorem.
-

@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture33.pdf
 uid: 86019a6c-5059-0ee5-6b96-d22cc2e26591
 ---
 This file covers lecture on generalization bounds for kernel methods based on assumption and algorithms on SVM's and square-loss regularization.
-

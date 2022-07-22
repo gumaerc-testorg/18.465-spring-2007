@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset1.pdf
 uid: a5490905-625b-99fa-4d8e-f70f5f8de09b
 ---
 This resource contains Problem Set 1.
-

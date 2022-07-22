@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture08.pdf
 uid: 98510848-29e3-da93-281d-a1366e2f1241
 ---
 This file covers lecture on Vapnik-Chervonenkis Classes of Sets based on lemma and corollary.
-

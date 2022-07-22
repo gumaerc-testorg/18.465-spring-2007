@@ -5,6 +5,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture02.pdf
 uid: 5c28ad94-11d2-f7ad-6c2d-74583d965522
 ---
 This file covers clasification problem along with examples.
-

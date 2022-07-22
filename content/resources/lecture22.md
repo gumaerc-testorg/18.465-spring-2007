@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture22.pdf
 uid: daa3216e-2f52-39ee-104d-d2a9ee9dc7f1
 ---
 This file covers lecture on martingale-difference inequalities, based on theorem and lemma along with examples to prove an assumption.
-

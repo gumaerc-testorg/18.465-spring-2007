@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture09.pdf
 uid: 717d10cd-7592-98c8-ebc8-20be92d6b5d8
 ---
 This file covers lecture on properties of VC classes of sets based on theorem and lemma along with examples.
-

@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture21.pdf
 uid: 48a60c4f-f9c3-09c4-54c8-b6ee32972090
 ---
 This file covers lecture on bounds in terms of sparsity based on theorem and examples.
-

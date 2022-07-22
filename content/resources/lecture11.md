@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture11.pdf
 uid: 1ed92806-5722-6317-9de0-6b7afa5d5f5c
 ---
 This file covers lecture on how to prove Optimistic VC Inequality with the help of theorem and also an exercise attached to it.
-

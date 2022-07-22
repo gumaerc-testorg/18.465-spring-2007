@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture30.pdf
 uid: 9487bc41-63fb-684f-2a01-d5d3d8c7adc2
 ---
 This file covers continued lecture on talagrand's concentration inequality for empirical processes based on lemmas, theorem and corollary.
-

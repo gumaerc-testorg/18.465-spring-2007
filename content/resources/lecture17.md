@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture17.pdf
 uid: 95bda0b0-f57b-a756-70dc-efbb2f8d8578
 ---
 This file contains lecture on covering numbers of the Convex Hull based on classification setting along with theorem.
-

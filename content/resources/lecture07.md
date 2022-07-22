@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture07.pdf
 uid: 8fc2f7e9-e92e-6ed0-3edf-22dd35f37eb5
 ---
 This file covers lecture explaining Hoeffding's inequality, Hoeffding-Chernoff inequality based on theorems.
-

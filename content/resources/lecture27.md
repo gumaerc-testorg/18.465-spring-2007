@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture27.pdf
 uid: 624219af-1e48-68ae-1485-94859186d633
 ---
 This file covers lecture on consequences of talagrand's convex-hull distance inequality based on theorems along with examples.
-

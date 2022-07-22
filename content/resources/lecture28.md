@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture28.pdf
 uid: 814e2fee-5dce-479e-e9a2-85b6c812806a
 ---
 This file covers lecture on talagrand's concentration inequality for empirical Processes based on assumption along with examples, theorem and lemma.
-

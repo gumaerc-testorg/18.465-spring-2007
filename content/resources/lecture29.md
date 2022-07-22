@@ -6,6 +6,7 @@ file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture29.pdf
 uid: 719db130-39b9-86f7-1a71-4b8c0dda996b
 ---
 This file covers lecture on talagrand's two-point inequality based on definition, theorem and lemma.
-
