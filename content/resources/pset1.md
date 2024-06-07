@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains Problem Set 1.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a5490905625b99fa4d8ef70f5f8de09b_pset1.pdf
+file_size: 51223
 file_type: application/pdf
 learning_resource_types:
 - Assignments

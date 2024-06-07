@@ -3,6 +3,7 @@ content_type: resource
 description: This file covers lecture on bounds in terms of sparsity based on theorem
   and examples.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/48a60c4ff9c309c454c8b6ee32972090_lecture21.pdf
+file_size: 76760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file covers lecture on optimistic VC inequality for random classes
   of sets based on theorems appearing in cucker and Smale.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a8787c59f2e7cf9f81abefbb7292c0b1_lecture34.pdf
+file_size: 117231
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
