@@ -5,6 +5,7 @@ description: This file covers lecture explaining applications of talagrand's con
   empirical processes and comparing it with martingale-difference inequalities along
   with theorems and examples.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/b80daec7683a3a039f68fe4be448d1b3_lecture31.pdf
+file_size: 95867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
