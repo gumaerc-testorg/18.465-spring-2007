@@ -3,6 +3,7 @@ content_type: resource
 description: This file covers lecture on talagrand's convex-hull distance inequality
   based on lemma along with cases, definition and theorem.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/9dd6b516c4ab9537752b04bd476b5d67_lecture26.pdf
+file_size: 98925
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

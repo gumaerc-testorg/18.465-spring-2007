@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains lecture covering numbers of the VC subgraph classes
   by explaining theorems.
 file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/180593c5a477fe4194c72fbcc9483755_lecture13.pdf
+file_size: 66736
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
