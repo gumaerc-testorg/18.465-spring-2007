@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on consequences of talagrand's convex-hull distance
   inequality based on theorems along with examples.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/624219af1e4868ae148594859186d633_lecture27.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/624219af1e4868ae148594859186d633_lecture27.pdf
 file_size: 52199
 file_type: application/pdf
 learning_resource_types:

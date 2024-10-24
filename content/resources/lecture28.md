@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on talagrand's concentration inequality for
   empirical Processes based on assumption along with examples, theorem and lemma.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/814e2fee5dce479ee9a285b6c812806a_lecture28.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/814e2fee5dce479ee9a285b6c812806a_lecture28.pdf
 file_size: 87116
 file_type: application/pdf
 learning_resource_types:
