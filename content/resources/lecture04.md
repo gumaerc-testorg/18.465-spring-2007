@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on generalization error of SVM based on sample
   assumption including theorem and lemma.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f32095a4c52bfbdf7b9b2a159f6502b_lecture04.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f32095a4c52bfbdf7b9b2a159f6502b_lecture04.pdf
 file_size: 96757
 file_type: application/pdf
 learning_resource_types:
