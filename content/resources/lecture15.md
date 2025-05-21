@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file covers lecture on more symmetrization based on lemmas.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/01599860293474a38640b0b4680d4dc1_lecture15.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/01599860293474a38640b0b4680d4dc1_lecture15.pdf
 file_size: 59564
 file_type: application/pdf
 learning_resource_types:

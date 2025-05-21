@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on generalization bounds for neural networks
   dealing with definition on the basis of theorem.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a5498016169563fa6b8870a733af23d5_lecture24.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/a5498016169563fa6b8870a733af23d5_lecture24.pdf
 file_size: 77819
 file_type: application/pdf
 learning_resource_types:
