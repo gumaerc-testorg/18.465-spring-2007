@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on talagrand's two-point inequality based on
   definition, theorem and lemma.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/719db13039b986f71a714b8c0dda996b_lecture29.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/719db13039b986f71a714b8c0dda996b_lecture29.pdf
 file_size: 72576
 file_type: application/pdf
 learning_resource_types:

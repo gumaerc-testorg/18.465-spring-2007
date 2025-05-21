@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains lecture on covering numbers of the Convex Hull based
   on classification setting along with theorem.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/95bda0b0f57ba75670dcefbb2f8d8578_lecture17.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/95bda0b0f57ba75670dcefbb2f8d8578_lecture17.pdf
 file_size: 86225
 file_type: application/pdf
 learning_resource_types:

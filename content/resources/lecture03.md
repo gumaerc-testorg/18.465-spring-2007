@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file covers classification setting for Support Vector Machines (SVM).
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f32028c31f130e362caa9e6ffdd66d6_lecture03.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f32028c31f130e362caa9e6ffdd66d6_lecture03.pdf
 file_size: 63980
 file_type: application/pdf
 learning_resource_types:
