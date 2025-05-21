@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers continuation of lecture on generalization bounds for
   neural networks based on assumption.
-file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/98eec94e40bb660a7779f1488d96c62d_lecture25.pdf
+file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/98eec94e40bb660a7779f1488d96c62d_lecture25.pdf
 file_size: 99935
 file_type: application/pdf
 learning_resource_types:
