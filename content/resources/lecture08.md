@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers lecture on Vapnik-Chervonenkis Classes of Sets based
   on lemma and corollary.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/9851084829e3da93281da1366e2f1241_lecture08.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/9851084829e3da93281da1366e2f1241_lecture08.pdf
 file_size: 52849
 file_type: application/pdf
 learning_resource_types:
