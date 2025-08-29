@@ -2,7 +2,7 @@
 content_type: resource
 description: This file covers continuation of lecture on bounds on the generalization
   error of voting classifiers based on theorem.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/7229bd5e335e8d267b093d4dbdba45f2_lecture20.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/7229bd5e335e8d267b093d4dbdba45f2_lecture20.pdf
 file_size: 58561
 file_type: application/pdf
 learning_resource_types:

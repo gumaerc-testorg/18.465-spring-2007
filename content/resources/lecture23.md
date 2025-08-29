@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains lecture on empirical and rademacher processes covering
   definition of processes based on theorems, cases and lemma.
-file: /courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f69b0d681393392d16fcbc74f34d8a0_lecture23.pdf
+file: /ol-ocw-studio-app/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/6f69b0d681393392d16fcbc74f34d8a0_lecture23.pdf
 file_size: 89248
 file_type: application/pdf
 learning_resource_types:
