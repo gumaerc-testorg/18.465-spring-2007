@@ -32,6 +32,6 @@ Talagrand, M. "Concentration of Measure and Isoperimetric Inequalities in Produc
 Suggested Related Resources
 ---------------------------
 
-{{% resource_link "56b3270f-b6fe-42e6-86ae-b4ac449039e4" "Computational Learning Theory Web site" %}}
+[Computational Learning Theory Web site](http://www.learningtheory.org/)
 
-{{% resource_link "90fecb60-5cc2-4f25-98dc-3a50841d56fc" "Learning Theory Resources, Lecture Notes, Tutorials, etc." %}}
+[Learning Theory Resources, Lecture Notes, Tutorials, etc.](http://learningtheory.org/)
